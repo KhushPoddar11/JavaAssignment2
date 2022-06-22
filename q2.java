@@ -12,7 +12,7 @@ public class q2 {
         for(int i = 0 ; i < n ; i++ ){
             arr[i] = sc.nextInt();
         }
-        System.out.println("The sum of all array element is: "+avg(n,arr));
+        System.out.println("The average of all array element is: "+avg(n,arr));
     }
 
     public static int avg(int n, int arr[])
@@ -31,5 +31,5 @@ public class q2 {
     4
     Enter array elements:
     10 10 10 10
-    The sum of all array element is: 10
+    The average of all array element is: 10
  */
